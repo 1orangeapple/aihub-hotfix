@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "minAppVersionCode": 0,
+  "issuedAt": "2026-10-17T12:17:47Z",
+  "notes": "测试发布",
+  "entries": [
+    {
+      "name": "models-dev-api.json",
+      "kind": "models",
+      "sha256": "80a6080096d6539dcd07f615bba94e320585921d7abcac0d1daf10f960975829",
+      "size": 1158
+    }
+  ]
+}
